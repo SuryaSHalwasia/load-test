@@ -1,0 +1,1 @@
+perf_processes.py -c 2 -n 10 -l 10 -k get_attrib --genesis_path /home/pool_transactions_genesis --load_time 120 --csv_file OUT_FILE2.csv
